@@ -1,0 +1,9 @@
+# [START gae_python37_cloudsql_config]
+runtime: python311
+
+env_variables:
+  CLOUD_SQL_USERNAME: test
+  CLOUD_SQL_PASSWORD: test1234
+  CLOUD_SQL_DATABASE_NAME: user-info
+  CLOUD_SQL_CONNECTION_NAME: renown-backend-assignment:us-central1:renown-sql-final
+# [END gae_python37_cloudsql_config]
