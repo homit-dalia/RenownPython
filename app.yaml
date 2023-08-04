@@ -6,4 +6,7 @@ env_variables:
   CLOUD_SQL_PASSWORD: test1234
   CLOUD_SQL_DATABASE_NAME: user-info
   CLOUD_SQL_CONNECTION_NAME: renown-backend-assignment:us-central1:renown-sql-final
+  JWT_SECRET_KEY : 5tdmxAMLHnVjXK94G3F31hNuFxUrNMM5fTx7DTw5MGAeMCzQDI3PpFqV5AwUr2Fqn6EXLypHzC8jPJFuY3ICJ46992ISWerljzUFHuIic8vNzHUutNPvlFQHpoGxQRCw
+  TWILIO_ACCOUNT_SID : ACae3bd1daa8b067d588e61a1e7a1f1bac
+  TWILIO_AUTH_TOKEN : 34c92c49680a78d4bb723f56fb6de3d3
 # [END gae_python37_cloudsql_config]
