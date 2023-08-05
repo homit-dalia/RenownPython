@@ -2,3 +2,4 @@
 appengine-generated/
 test.py
 local.py
+app.yaml
